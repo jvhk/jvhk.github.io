@@ -155,4 +155,9 @@ footer#after-description{
         padding: 0px;
         border-radius: 5px;
     }
+
+    #name > p{
+        text-align: justify;
+        word-break: break-all;
+    }
 }
