@@ -157,7 +157,6 @@ footer#after-description{
     }
 
     #name > p{
-        text-align: justify;
-        word-break: break-all;
+        text-align: left;
     }
 }
