@@ -115,6 +115,16 @@ footer#after-description{
     font-weight: bold;
 }
 
+#dance > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
 @media (max-width: 500px){
     #home-div{
         color: rgb(255, 5, 234);
